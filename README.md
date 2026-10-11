@@ -19,3 +19,5 @@ The figures in the feasibility analysis are estimates for this class assignment.
 | 1 | ​Esraa Basheer Abdallah Ali| 1202540047| 
 | 2 | Mariam Yousif Ali Yousif |1202540383 |
 | 3 | ​Rawda Ashraf Elgharabawy  |1202540161 |
+| 4 | ​ Salma Ayman Ismail Elgammal | 1202540692|
+| 5 | ​ Sama Ibrahim Salem Ibrahim Salem |1202540693 |
