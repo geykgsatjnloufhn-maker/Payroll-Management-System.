@@ -19,6 +19,6 @@ A robust, web-based Payroll Management System engineered to automate and streaml
 | :--- | :--- | :--- | :--- |
 | 1 | Esraa Basheer Abdallah Ali | 1202540047 | Sunday |
 | 2 | Mariam Yousif Ali Yousif | 1202540383 | Thursday |
-| 3 | Rawda Ashraf Elgharabawy | 1202540161 | Tuesday |
-| 4 | Salma Ayman Ismail Elgammal | 1202540692 | Wednesday |
-| 5 | Sama Ibrahim Salem Ibrahim Salem | 1202540693 | Thursday |
+| 3 | Rawda Ashraf Elgharabawy | 1202540161 |Sunday  |
+| 4 | Salma Ayman Ismail Elgammal | 1202540692 | Sunday |
+| 5 | Sama Ibrahim Salem Ibrahim Salem | 1202540693 | Sunday |
